@@ -2,6 +2,8 @@
 
 Content-based filtering system for 32,000 Netflix titles (16K Movies + 16K TV Shows, 2010–2025) using TF-IDF and Sentence-BERT embeddings. Built with Python, Streamlit, and the TMDB API.
 
+**Live Demo**: https://netflix-recommendation-sys.streamlit.app/
+
 ## Project Structure
 
 ```
